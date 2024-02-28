@@ -1,0 +1,10 @@
+\contentsline {section}{\numberline {1}One-dim wave equation}{2}{}%
+\contentsline {subsection}{\numberline {1.1}Example}{2}{}%
+\contentsline {section}{\numberline {2}General solutions to the one-dim wave equation}{3}{}%
+\contentsline {subsection}{\numberline {2.1}Example}{4}{}%
+\contentsline {section}{\numberline {3}Harmonic traveling waves}{4}{}%
+\contentsline {subsection}{\numberline {3.1}Example}{6}{}%
+\contentsline {section}{\numberline {4}The three-dimensional wave equation}{7}{}%
+\contentsline {subsection}{\numberline {4.1}Three-Dimensional Plane Waves}{7}{}%
+\contentsline {subsection}{\numberline {4.2}Spherical Waves}{8}{}%
+\contentsline {section}{\numberline {A}Appendix:Complex Numbers and the Complex Representation}{10}{}%
